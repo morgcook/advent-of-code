@@ -1,1 +1,1 @@
-My ingenius (joke) solutions for advent of code challenges
+My ingenious (bad) solutions for the advent of code challenges
